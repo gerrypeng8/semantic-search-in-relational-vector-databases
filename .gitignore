@@ -1,0 +1,6 @@
+*.pem
+.ipynb_checkpoints/
+pro-forma-gerry.pdf
+*.csv
+.DS_Store
+__pycache__/
